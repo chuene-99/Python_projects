@@ -1,3 +1,4 @@
+#this program operates as a taxi maths calculator in South Africa.
 try:
     taxi_fee=int(input('taxi fee per passenger:'))
     amount=int(input('amount sent forward:'))
