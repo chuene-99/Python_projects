@@ -1,4 +1,4 @@
-#lets learn how to scrape websites
+#get song lyrics from lyric website
 import urllib.request, urllib.parse, urllib.error
 import ssl
 from bs4 import BeautifulSoup
